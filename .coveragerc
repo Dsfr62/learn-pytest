@@ -1,0 +1,9 @@
+source = ./
+
+
+[report]
+exclude_lines = 
+  def __str__
+
+[html]
+directory = cov_report_html
